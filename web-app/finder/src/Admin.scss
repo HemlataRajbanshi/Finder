@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkatra&family=Dancing+Script:wght@500&family=Great+Vibes&family=Merienda:wght@300&family=Poppins:ital,wght@1,200&family=Red+Rose:wght@300&display=swap");
+
+.fstdiv{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f1f1;
+}
+
+.snddiv{
+    width: 70%;
+    background: gray ;
+    border: 1px solid black;
+
+    
+}
+
+.addbtn{
+    bottom:auto;
+}
+
+
+.tbl {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tbl th,
+.tbl td {
+    padding: 0.5rem;
+    border: 1px solid white;
+}
+
+.tbl th {
+    // background-color: #f1f1f1;
+    font-weight: bold;
+}
+
